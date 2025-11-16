@@ -1,9 +1,0 @@
-streamlit
-numpy
-pydicom
-Pillow
-python-docx
-google-generativeai
-PyMuPDF
-requests
-
