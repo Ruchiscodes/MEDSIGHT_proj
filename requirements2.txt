@@ -1,0 +1,21 @@
+# streamlit
+# numpy
+# pydicom
+# pylibjpeg
+# pylibjpeg-libjpeg
+# pydicom[gdcm]
+# Pillow
+# python-docx
+# PyMuPDF
+# requests
+# google-generativeai
+# python-dotenv
+
+streamlit
+numpy
+pydicom
+Pillow
+python-docx
+PyMuPDF
+google-generativeai
+
